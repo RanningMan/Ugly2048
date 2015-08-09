@@ -1,0 +1,19 @@
+*{margin:0; padding:0;}
+
+#grid{width:424px; margin:7% auto;}
+
+.row div{width:100px; height:100px; background-color:#CCC; border-style: solid; border-color:#B29D8F; float:left; background-color:#FFF0E6;}
+.row {clear:left;}
+
+.number0{height:100px; line-height:100px; text-align:center; display:none;}
+.number2{height:100px; line-height:100px; text-align:center; color:black; background-color:#FFE0CC;}
+.number4{height:100px; line-height:100px; text-align:center; color:black; background-color:#FFC299;}
+.number8{height:100px; line-height:100px; text-align:center; color:white; background-color:#FF4719;}
+.number16{height:100px; line-height:100px; text-align:center; color:white; background-color:#FF3300;}
+.number32{height:100px; line-height:100px; text-align:center; color:white; background-color:#E62E00;}
+.number64{height:100px; line-height:100px; text-align:center; color:white; background-color:#CF2900;}
+.number128{height:100px; line-height:100px; text-align:center; color:white; background-color:#BA2500;}
+.number256{height:100px; line-height:100px; text-align:center; color:white; background-color:#A72100;}
+.number512{height:100px; line-height:100px; text-align:center; color:white; background-color:#A73419;}
+.number1024{height:100px; line-height:100px; text-align:center; color:white; background-color:#961E00;}
+.number2048{height:100px; line-height:100px; text-align:center; color:white; background-color:#871B00;}
